@@ -2,10 +2,10 @@
 const videos = {
 "EP_02": { 
         title: "Episode 2", 
-        image: "https://i.ibb.co/8gjVZLtR/poster.jpg", 
-        final: "https://t.me/vaiiralwathevideo_bot?start=f2ad0984", 
+        image: "https://share.google/ahh5RI7lpnJQGR4al", 
+        final: "https://youtu.be/1myGZh27h6w?si=ZXxvuT9mJ33GSAQq", 
         cat: "all", 
-        date: "30 Mar 2026", 
+        date: "18 Aug 2026", 
         time: "04:03 pm" 
     },
     "EP_01": { 
